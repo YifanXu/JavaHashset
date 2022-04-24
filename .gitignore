@@ -1,0 +1,6 @@
+.vscode/
+*.class
+SeedOptimizer.java
+MiniTester.java
+10MillionWords.txt
+output*.txt
